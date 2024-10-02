@@ -1,0 +1,1 @@
+# plugins-paste-as-plain-text-by-default
