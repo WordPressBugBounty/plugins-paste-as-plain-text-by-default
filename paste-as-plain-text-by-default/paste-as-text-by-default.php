@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: Paste As Plain Text By Default
- * Plugin URI: https://divimundo.com
+ * Plugin URI: https://victorduse.com
  * Description: Enable paste as text by default with one click in editors like Classic Editor, Divi Builder, Elementor, Beaver Builder and WPBakery.
  * Version: 1.1.1
  * Author: DiviMundo
- * Author URI: https://divimundo.com/en/
+ * Author URI: https://victorduse.com
  */
 
 // Paste as text in Classic Editor
@@ -65,6 +65,6 @@ function dm_paste_as_text()
 // Add Donate Link
 add_filter('plugin_action_links_' . plugin_basename(__FILE__), function ($links) {
     return array_merge($links, [
-        '<a href="https://www.buymeacoffee.com/divimundo" target="_blank" style="color:#3db634;">Buy developer a coffee</a>'
+            '<a href="https://www.buymeacoffee.com/victorduse" target="_blank" style="color:#3db634;">Buy developer a coffee</a>'
     ]);
 });

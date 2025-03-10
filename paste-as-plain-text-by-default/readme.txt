@@ -4,7 +4,7 @@ Contributors: divimundo, loudbells
 Donate link: https://www.buymeacoffee.com/divimundo/
 Tags: paste as plain text, paste as text, clean text, tinymce, paste text
 Requires at least: 4.7
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.1
 Requires PHP: 7.4
 License: GPLv2 or later
