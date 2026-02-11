@@ -1,10 +1,9 @@
 === Paste As Plain Text By Default ===
-
 Contributors: divimundo, loudbells
-Donate link: https://www.buymeacoffee.com/divimundo/
-Tags: paste as plain text, paste as text, clean text, tinymce, paste text
+Donate link: https://www.buymeacoffee.com/victorduse/
+Tags: paste as plain text, paste as text, clean text, tinymce, paste text, paste unformatted text, paste text without formatting, classic editor, divi builder, elementor, wpbakery, beaver builder, wpuf
 Requires at least: 4.7
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.1.1
 Requires PHP: 7.4
 License: GPLv2 or later
@@ -14,7 +13,7 @@ Enable paste as text by default with one click in editors like Classic Editor, D
 
 == Description ==
 
-Enable paste as text by default with one click in editors like Classic Editor, Divi, Elementor, Beaver Builder, WPBakery and WPUF (but not in Gutenberg). 
+Enable paste as text by default with one click in editors like Classic Editor, Divi (Divi 5 included), Elementor, Beaver Builder, WPBakery and WPUF (but not in Gutenberg). 
 
 No more unwanted formatting issues or junk code when copying and pasting text into your WordPress editor. Paste content from pdf documents, emails or other websites without importing colors and font stylings that don't match your overall design.
 
@@ -37,7 +36,7 @@ No need for custom hacks with keyboard shortcuts, cleaning your text in Notepad 
 This plugin supports the following page builders / editors:
 
 - Classic Editor
-- Divi Builder
+- Divi Builder (Divi 5 included)
 - Elementor
 - Beaver Builder
 - WPBakery
@@ -56,7 +55,7 @@ The plugin is simple to install:
 1. Go to the plugin management page and enable the plugin
 1. That's it! There are no further settings needed.
 
-You can find full details of installing a plugin on the [plugin page](https://divimundo.com/en/plugins/paste-as-plain-text/).
+You can find full details of installing a plugin on the [plugin page](https://victorduse.com/recommended-tools-and-services/paste-as-plain-text/).
 
 == Frequently Asked Questions ==
 
