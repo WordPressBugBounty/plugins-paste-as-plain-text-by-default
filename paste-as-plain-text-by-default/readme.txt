@@ -1,10 +1,10 @@
 === Paste As Plain Text By Default ===
 Contributors: divimundo, loudbells
 Donate link: https://www.buymeacoffee.com/victorduse/
-Tags: paste as plain text, paste as text, clean text, tinymce, paste text, paste unformatted text, paste text without formatting, classic editor, divi builder, elementor, wpbakery, beaver builder, wpuf
+Tags: paste as plain text, paste as text, classic editor, divi, elementor
 Requires at least: 4.7
-Tested up to: 6.9
-Stable tag: 1.1.1
+Tested up to: 7.1
+Stable tag: 1.2
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -76,6 +76,9 @@ The plugin has no effect on the Gutenberg Block Editor but there are no known co
 We have no plans to add support for Gutenberg but we could add support for other WordPress page builders and editors in the future. Feel free to send a feature request on the WordPress Plugin Support Page.
 
 == Changelog ==
+
+= 1.2 =
+* Improvement: Code cleanup and hardening
 
 = 1.1.1 =
 * Fix: Paste as text was not enabled on rare occasions in the Divi Visual Builder 
